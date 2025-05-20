@@ -1,0 +1,46 @@
+{
+  "name": "twilio-signature",
+  "version": "1.0.0",
+  "description": "A lightweight utility for generating and validating Twilio webhook signatures with zero dependencies",
+  "keywords": [
+    "twilio",
+    "signature",
+    "webhook",
+    "validation",
+    "security",
+    "hmac",
+    "authentication",
+    "verify",
+    "sms",
+    "voice",
+    "messaging"
+  ],
+  "homepage": "https://github.com/yourusername/twilio-signature#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/twilio-signature/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/twilio-signature.git"
+  },
+  "license": "ISC",
+  "author": "Kousha Talebian <k@ousha.me>",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=10.0.0"
+  }
+}
