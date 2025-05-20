@@ -1,6 +1,11 @@
 # Twilio Signature Generator
 
-A lightweight utility for generating Twilio Signatures to sign your webhook requests. Refer to [Twilio Webhooks Security](https://www.twilio.com/docs/usage/webhooks/webhooks-security) for more informatino.
+[![npm version](https://img.shields.io/npm/v/twilio-signature.svg)](https://www.npmjs.com/package/twilio-signature)
+[![License](https://img.shields.io/npm/l/twilio-signature.svg)](https://github.com/yourusername/twilio-signature/blob/main/LICENSE)
+
+A lightweight utility for generating Twilio Signatures to sign your webhook requests. Refer to [Twilio Webhooks Security](https://www.twilio.com/docs/usage/webhooks/webhooks-security) for more information.
+
+If you need a command-line interface instead of a library, check out [twilio-signature-cli](https://www.npmjs.com/package/twilio-signature-cli), which wraps this package to provide an easy-to-use CLI for generating Twilio signatures.
 
 ## Installation
 
