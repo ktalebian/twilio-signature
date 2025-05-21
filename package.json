@@ -1,6 +1,6 @@
 {
   "name": "twilio-signature",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility for generating and validating Twilio webhook signatures with zero dependencies",
   "keywords": [
     "twilio",
