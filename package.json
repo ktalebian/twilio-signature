@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/twilio-signature.git"
+    "url": "git+https://github.com/ktalebian/twilio-signature.git"
   },
   "license": "ISC",
   "author": "Kousha Talebian <k@ousha.me>",
